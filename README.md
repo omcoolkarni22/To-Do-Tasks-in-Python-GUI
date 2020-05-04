@@ -9,6 +9,7 @@ Time and date for reminding you about the task you have to do !
 # How to run ?
 Fork,clone or download the repo, run todolist.py and it will show a UI 
 Add your top 5 works in it with date it will remind you on that date .
+Press remind me so it scans and reminds you for the todays tasks.
 Make sure to run the script daily so it works daily .
 
 # Changes You can do !
