@@ -15,5 +15,8 @@ Make sure to run the script daily so it works daily .
 Fork this repo and add it to task schedular so it run daily without running actually the program.
 Or else make a .exe using pyinstaller and than add it to schedular.
 
+# any database ?
+No database it uses .txt file , for saving the tasks.
+After adding a few tasks it will generate a .txt  file automatically .
 
 # ENJOY USING IT !
